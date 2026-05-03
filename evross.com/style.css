@@ -1,0 +1,14 @@
+.center {
+	margin: auto;
+	width: 70%;
+	padding: 10px;
+	color: blueviolet;
+	border: 30px;
+	text-align: center;
+
+}
+
+center {
+	margin: auto;
+	border: 30px;
+}

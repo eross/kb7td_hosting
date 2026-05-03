@@ -1,0 +1,11 @@
+drwxr-xr-x   3 10924021 15000        4096 Jun 19  2023 .Archived
+-rw-r--r--   1 10924021 15020         230 Jun 20  2023 .htaccess
+-rwxr-xr-x   1 10924021 15000           3 Jun 11  2023 .membership
+drwx------   2 10924021 15000        4096 Jun 20  2023 .ssh
+-rw-r--r--   1 10924021 15000         566 Jun 20  2023 Home.html
+drwxr-xr-x   2 10924021 15000        4096 Jul  4  2023 evross.com
+drwxr-xr-x   2 10924021 15000        4096 Jul  4  2023 pjross.net
+drwxr-xr-x   2 10924021 15000        4096 May  2 20:51 public_html
+drwxr-xr-x   2 10924021 15000        4096 Jul  4  2023 rossmbox.com
+drwxr-xr-x   2 10924021 15000       20480 May  2 01:13 stats
+-rw-r--r--   1 10924021 15000         155 Jun 20  2023 style.css
